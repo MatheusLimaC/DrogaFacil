@@ -1,4 +1,4 @@
-# projeto-farmaceutico
+# Droga Facil
  Gerenciamento de estoque farmacêutico
 
 O presente projeto visa auxiliar estabelecimentos farmacêuticos na gestão de seu estoque.
