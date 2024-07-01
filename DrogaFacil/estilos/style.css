@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    background-image: linear-gradient(to right, #8B5FBF, #D183C9);
+}
+
+.form-container {
+    max-width: 350px;
+    padding: 1rem;
+}
+
+h1 {
+    color: white;
+    text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.377);
+}
+
+.btn-primary:hover {
+    background-color: #6b4992;
+    border-color: #6b4992;
+}
+
+.btn-primary {
+    background-color: #231B1B;
+    border-color: #231B1B;
+}
+
+.invalid-feedback {
+    color: white;
+}

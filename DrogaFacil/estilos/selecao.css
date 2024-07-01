@@ -1,0 +1,40 @@
+.navbar {
+    background-image: linear-gradient(to right, #8B5FBF, #D183C9);
+}
+
+i {
+    color: rgba(255, 255, 255, 0.938);
+    cursor: default;
+}
+
+#logo {
+    color: rgba(255, 255, 255, 0.938);
+    cursor: default;
+}
+
+.card > h5 {
+    text-align: center;
+}
+
+.centralizar-botao {
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+    .card {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .card {
+        width: auto;
+    }
+}
+
+@media screen and (min-width: 1980px) and (min-height: 1080px) {
+    #linha {
+        width: 50vw;
+    }
+}

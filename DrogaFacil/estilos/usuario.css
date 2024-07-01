@@ -1,0 +1,25 @@
+.navbar {
+    background-image: linear-gradient(to right, #8B5FBF, #D183C9);
+}
+
+.navbar > span {
+    font-size: 2.5em;
+}
+
+i {
+    color: rgba(255, 255, 255, 0.938);
+    cursor: default;
+}
+
+#logo {
+    color: rgba(255, 255, 255, 0.938);
+    cursor: default;
+}
+
+#container-logo > #logo > i {
+    cursor: pointer;
+}
+
+#container-logo > #logo {
+    cursor: pointer;
+}
